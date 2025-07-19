@@ -28,7 +28,7 @@
 ```curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm```
 - ᴀᴅᴅ ʏᴏᴜʀ ᴄᴏᴏᴋɪᴇs ᴛᴏ [cookies/cookies.txt](https://github.com/Prince-private-repo/pro-music/blob/main/SONALI/assets/cookies.txt)
 - ᴄʟᴏɴᴇ ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀʏ ʙʏ :
-```git clone https://github.com/Prince-private-repo/pro-music&& cd Sonali```
+```git clone https://github.com/Prince-private-repo/pro-music&& cd SONALI```
 - ɪɴsᴛᴀʟʟ ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs ʙʏ :
 ```pip3 install -U -r requirements.txt```
 - ғɪʟʟ ʏᴏᴜʀ ᴠᴀʀɪᴀʙʟᴇs ɪɴ ᴛʜᴇ ᴇɴᴠ ʙʏ :
